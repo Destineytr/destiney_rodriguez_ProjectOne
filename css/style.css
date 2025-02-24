@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(249, 239, 225);
+}
+
+nav {
+    margin-bottom: 20px;
+    font-size: 14pt;
+    text-align: center;
+    background-color: antiquewhite;
+
+}
+
+a {
+    font-family: "Homemade Apple";
+    color: rgb(154, 13, 13);
+    text-decoration: none;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Homemade Apple";
+    color: rgb(154, 13, 13)
+}
+
+p {
+    margin: 40px auto;
+    font-size: 18px;
+    line-height: 20pt;
+    text-align: center;
+    
+    width: 80%
+}
+
+footer {
+    font-family: "Homemade Apple";
+    text-align: center;
+    background-color: antiquewhite;
+
+}
+
+.image-container {
+    text-align: center;
+}
