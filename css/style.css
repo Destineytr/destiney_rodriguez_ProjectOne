@@ -28,7 +28,6 @@ p {
     font-size: 18px;
     line-height: 20pt;
     text-align: center;
-    
     width: 80%
 }
 
@@ -36,9 +35,17 @@ footer {
     font-family: "Homemade Apple";
     text-align: center;
     background-color: antiquewhite;
+}
 
+img {
+    max-height: 200px;    
 }
 
 .image-container {
     text-align: center;
+    margin: auto;
+    width: fit-content;
+    padding: 10px;
+    border: 5px solid #333; 
+    border-radius: 5px; 
 }
