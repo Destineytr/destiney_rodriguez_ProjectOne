@@ -6,7 +6,7 @@ nav {
     margin-bottom: 20px;
     font-size: 14pt;
     text-align: center;
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
 
 }
 
@@ -34,11 +34,10 @@ p {
 footer {
     font-family: "Homemade Apple";
     text-align: center;
-    background-color: antiquewhite;
 }
 
-img {
-    max-height: 200px;    
+.image-container>img {
+    max-height: 200px;   
 }
 
 .image-container {
@@ -48,4 +47,17 @@ img {
     padding: 10px;
     border: 5px solid #333; 
     border-radius: 5px; 
+}
+
+.sphynx-container {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    left: 300px;
+    top: 50px;
+    pointer-events: none;
+}
+
+.sphynx {
+    max-height: 200px;   
 }
