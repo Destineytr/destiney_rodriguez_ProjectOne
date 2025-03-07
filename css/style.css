@@ -52,7 +52,7 @@ footer {
     padding: 10px;
     background-size: 20%;
     background-repeat: repeat-x;
-    background-image: url("/img/film.png");
+    background-image: url("../img/film.png");
 }
 
 .sphynx-container {
