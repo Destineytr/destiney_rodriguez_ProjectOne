@@ -36,8 +36,8 @@ footer {
     text-align: center;
 }
 
-.image-container>img {
-    max-height: 250px;   
+.main-photos>img {
+    max-height: 200px;   
 }
 
 .image-container {
@@ -48,11 +48,9 @@ footer {
 }
 
 .film {
-    display: block;
-    padding: 10px;
-    background-size: 20%;
-    background-repeat: repeat-x;
-    background-image: url("../img/film.png");
+    display: inline;
+    margin: 0 -5px -5px 0;
+    width: 20%
 }
 
 .sphynx-container {
